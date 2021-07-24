@@ -6,6 +6,7 @@ Sign Language to Audio Converter
 2. Python dependencies (numpy, mediapipe, cv2)
 3. Sql Server
 4. UIPath Apps
+5. To stop recording, press 'q' in lowercase
 
 # Assets to be created in Orchestrator
 1. CSVFilePath (Path of the CSV file containing dataset of recorded symbols) - C:\SignLanguageInterpreter\gesture_train.csv (You can put your own path)
